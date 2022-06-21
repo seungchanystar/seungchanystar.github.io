@@ -83,14 +83,21 @@ a.navbar-item.is-active {
         margin: 0.5rem;
     }
     .about-author-history{
-        background-color: lightblue;
+        background-color: transparent;
         text-align: left;
         font-weight: 600;
    
         .about-author-history-content{
-            background-color: lightgreen;
+            background-color: transparent;
             font-weight: 400;
         }
+        @media(max-width:680px){
+            font-size:0.8rem;
+        }
+        @media(max-width:580px){
+            font-size:0.7rem;
+        }
+    
     }
     
 }
@@ -210,10 +217,12 @@ a.navbar-item.is-active {
 
 
 #footer {
+    width: 100%;
+    background-color: transparent;
     #backtotop {
         transition: all 0.25s ease;
         width: 10rem;
-        padding: 0.25rem;
+        padding: 0.2rem;
         margin: auto auto 1rem auto;
 
         &:hover {
@@ -222,17 +231,27 @@ a.navbar-item.is-active {
     }
 
     .container {
-        margin: auto;
-        padding: 1.5rem;
-        line-height: 1.25;
-
+        margin: 0;
+        padding: 1.2rem;
+        background-color: transparent;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
         .column {
             display: grid;
             justify-content: center;
+            align-items: flex-start;
+            background-color: transparent;
+            .columns {
+                display: flex;
+                background-color: transparent;
+                width: 100%;
+            }
 
             li {
-                list-style: circle;
+                list-style: none;
                 list-style-position: outside;
+                margin-top: 5px;
             }
 
             a {
@@ -254,6 +273,48 @@ a.navbar-item.is-active {
                 }
             }
         }
+        .footer-more-and-recent{
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            background-color: transparent;
+            width: 100%;
+            background-color: transparent;
+            .column{
+                background-color:transparent;
+                height: 200px;
+                width: 220px;
+                display: flex;
+                flex-direction: column;
+                justify-content: flex-start;  
+                align-items: flex-start;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+                li{
+                    a{
+                        width: 300px;
+                        display: block;
+                        white-space: nowrap;
+                        text-overflow: ellipsis;
+                        overflow: hidden;
+                        text-align: left;
+                    }
+                    @media (max-width:500px){
+                        a{
+                            width: 200px;
+                            display: block;
+                            white-space: nowrap;
+                            text-overflow: ellipsis;
+                            overflow: hidden;
+                            text-align: left;
+                        }
+   
+                    }
+                }
+            }
+        }
+        
     }
 
     #credits {

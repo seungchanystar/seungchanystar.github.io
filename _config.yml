@@ -9,8 +9,7 @@ baseurl:
 # Title of the Site
 title: SEUNG CHANY
 # Description of the Site
-description: NOW FRONT-END DEVELOPER && TO FULL-STACK
-# URL of Image of the Site
+description: FRONT-END DEVELOPER
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
@@ -45,33 +44,96 @@ disqus-shortname: seungchanystar
 author-name: seungchanystar
 # URL for the Image of the Author
 # author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
-author-image: ./assets/images/Pofile_Photo.png
+author-image: /assets/images/Pofile_Photo.png
 # 60 Words About the Author
 author-about: 
-  Education 
-  <hr  style="border:solid 0.5px black;"/>
+  EDUCATION 
+  <hr style="border:solid 0.3px black;"/>
   <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
-    <div style="width:80%; display:flex" >JEONBUK NATIONAL UNIVERSITY February, Jeonju-si, Jeollabuk-do, Korea <br/> Law</div><div> 2018 ~ 2022</div></div> </br>
-  Experience 
+    <div style="width:78%; display:flex" >Korea National Open University - Seoul, Korea <br/> 
+    Bachelor of Computer Science 
+    </div>
+    <div>
+    August, 2022 <br/>
+    (Expected)
+    </div>
+  </div></br>
+  <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
+    <div style="width:78%; display:flex" >Jeonbuk National University - Jeonju-si, Jeollabuk-do, Korea <br/> 
+    Bachelor of Law
+    </div>
+    <div> February, 2012</div>
+  </div></br>
+
+  EXPERIENCE
+   <hr style="border:solid 0.3px black;"/>
+  <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
+    <div style="width:78%; display:flex;">
+      Project - Kiosk Manage Web <br/>
+      Front-End Developer<br/>
+      Skills - Html, Css, Sass, JavaScript, TypeScript, React, NodeJs, Git
+    </div>
+    <div>
+    February 2022 - June 2022<br/>
+    </div>
+  </div>
+  <div style="font-weight:400;">Hunik, Inc - Seoul, Korea </div> 
+
+  <hr style="border:dashed 0.3px black;"/>
+
+  <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
+    <div style="width:78%; display:flex;">
+      Project - CS Center Manage Web <br/>
+      Full Stack Developer<br/>
+      Skills - Html, Css, Sass, JavaScript, Vue, React, NodeJs, Java, Jsp, Spring, Mysql, Oracle, Linux, Svn
+    </div>
+    <div>
+    September 2021 - January 2022<br/>
+    </div>
+  </div>
+  <div style="font-weight:400;">Itfact, Inc - Seoul, Korea </div>
+
+  <hr style="border:dashed 0.3px black;"/>
+  <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
+      <div style="width:78%; display:flex;">
+          Project - Online Marketplace <br/>
+          Full Stack Developer <br/>
+          Skills - Html, Css, Sass, JavaScript, React-Native, NodeJs, PHP, Mysql, Git
+      </div>
+      <div>February 2021 - July 2021<br/></div>
+  </div>
+  <div style="font-weight:400;">IT Energy - Seoul, Korea </div>
+   <hr style="border:dashed 0.3px black;"/> 
+     <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
+      <div style="width:78%; display:flex;">
+          Project - Cloud Storage Platform(Maintenance) <br/>
+          Full Stack Developer <br/>
+          Skills - Html, Css, Sass, JavaScript, PHP, JAVA, Spring, MariaDB, Linux, Kubernetes
+      </div>
+      <div>Octor 2019 - May 2020<br/></div>
+  </div>
+  <div style="font-weight:400;"> Eansoft, Inc - Seoul, Korea </div><br/>
+
+  CERTIFICATES
   <hr style="border:solid 0.5px black;"/>
   <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
-  Developed
+    <div style="width:78%; display:flex" >Engineer Information Processing </div> <div>June, 2022</div>
+  </div></br>
+  <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
+    <div style="width:78%; display:flex" >Craftsman Information Equipment Operation </div> <div>December, 2020</div>
+  </div></br>
 
-  Transferrable skills
-  능력 발휘한 내용 + Result / Impact 특히 수치화
-  소소한 것들
-  - 과거일은 과거형, 현재 하고 있는 현재형
-  - etc. 는 절대 쓰지 않습니다. 
-  Job description
-  Preferred Qualifications
-  Preferred Skills
-  Certifications <br/>
-  Awards <br/>
-  Activities, <br/>
-  Additional <br/>
-  2002 ~ 2012 Graduated, Law Dept of JEONBUK NATIONAL UNIVERSITY <br/>
-  2018 ~ 2022 
-  HTML, CSS, javaScript, Java, PHP, React, Vue, React-Naitve, MySql <br/> 
+  ACTIVITIES
+  <hr style="border:solid 0.5px black;"/>
+  <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
+    <div style="width:78%; display:flex" >Blockchain service development basic course </div> <div>August 2021<br/></div>
+  </div></br>
+  <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
+    <div style="width:78%; display:flex" >Arduino, 3D modeling, 3D printer Instructor training course </div> <div>May 2020 - July 2020<br/></div>
+  </div></br>
+
+
+
   
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/seungchanystar

@@ -49,7 +49,15 @@ body {
     font-weight: bold;
 }
 
+@media (max-width:1240px){
+    .columns{
+        flex-direction: column;
+    }
+}
+
 .columns {
+    display: flex;
+    align-items: center;
     .button {
         margin: 0.5rem !important;
     }
@@ -74,5 +82,5 @@ hr {
 }
 
 .about-author-history-title{
-    background-color: lightgreen;
+    background-color: transparent;
 }
