@@ -45,6 +45,11 @@
 
 ---
 
+###  cannot load such file -- webrick
+```s
+bundle add webrick
+```
+
 ### Credits :bulb:
 * [Sneha Omer](http://sassyecoder.github.io/)
 * [Harsh Trivedi](http://harsh98trivedi.github.io/)

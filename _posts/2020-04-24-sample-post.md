@@ -1,16 +1,17 @@
 ---
-title: Sample Post
+title: 프로젝트 기획
 layout: post
-post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
-description: A sample post to show how the content will look and how will different
-  headlines, quotes and codes will be represented.
+post-image: "../assets/images/project_planning_steps.png"
+description: R&D 프로젝트의 최종목표 및 세부 수행목표를 확인하여SW R&D 목표 달성을 위해 요구되는 조직/자원/활동의 배분 및 관리계획, 구체적인 수행 프로세스를 도출하는 활동
 tags:
 - sample
 - post
 - test
 ---
 
-This post will show you how the content will look like in the post pages and how the headlines, quotes and quotes will be represented. Jekyll is mainly used to write simple markdown and after that it renders out a static pages, so you need to know the basics of writing markdown for that.
+프로젝트 목표 결정시 가장 중요한 것은 이해관계자와의 협의 및 확인이다. 잘 만들어진 목표도
+이해관계자들과 서로 합의하고 소통하지 않으면 프로젝트는 난항에 빠지게 된다. 특히, 정량적 목표와 정성적 목표를 명확히 구분하여 프로젝트가 종료된 후에 문제가 발생하지 않도록 추진해야 한다.
+
 For more information about writing markdown you can checkout the following markdown cheatsheets:
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
