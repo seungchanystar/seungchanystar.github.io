@@ -259,12 +259,14 @@ a.navbar-item.is-active {
 
 #project {
     .columns {
+
         .column {
             border-radius: 0.5rem;
+            white-space: nowrap;
             .image {
                 background-position: center;
                 background-repeat: no-repeat;
-                background-size: cover;
+                background-size: contain;
             }
         }
     }
@@ -278,7 +280,8 @@ a.navbar-item.is-active {
         margin-bottom: 0.5rem !important;
         display: inline-table;
         &:hover {
-            transform: scale(0.975);
+            transform: scale(2.0);
+            z-index: 9999;
         }
     }
     .card {
