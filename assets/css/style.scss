@@ -70,11 +70,11 @@ a.navbar-item.is-active {
 
 #about {
     .image {
-        max-width: 20vmin;
+        max-width: 50vmin;
         margin: auto;
 
         img {
-            border: 0.25rem  black;
+            border: 0.5rem  black;
         }
     }
 
@@ -82,6 +82,17 @@ a.navbar-item.is-active {
         min-width: 25vmax;
         margin: 0.5rem;
     }
+    .about-author-history{
+        background-color: lightblue;
+        text-align: left;
+        font-weight: 600;
+   
+        .about-author-history-content{
+            background-color: lightgreen;
+            font-weight: 400;
+        }
+    }
+    
 }
 
 #contact {
@@ -357,3 +368,4 @@ a.navbar-item.is-active {
         }
     }
 }
+

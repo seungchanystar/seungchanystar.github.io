@@ -47,7 +47,32 @@ author-name: seungchanystar
 # author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 author-image: ./assets/images/Pofile_Photo.png
 # 60 Words About the Author
-author-about: is going
+author-about: 
+  Education 
+  <hr  style="border:solid 0.5px black;"/>
+  <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
+    <div style="width:80%; display:flex" >JEONBUK NATIONAL UNIVERSITY February, Jeonju-si, Jeollabuk-do, Korea <br/> Law</div><div> 2018 ~ 2022</div></div> </br>
+  Experience 
+  <hr style="border:solid 0.5px black;"/>
+  <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
+  Developed
+
+  Transferrable skills
+  능력 발휘한 내용 + Result / Impact 특히 수치화
+  소소한 것들
+  - 과거일은 과거형, 현재 하고 있는 현재형
+  - etc. 는 절대 쓰지 않습니다. 
+  Job description
+  Preferred Qualifications
+  Preferred Skills
+  Certifications <br/>
+  Awards <br/>
+  Activities, <br/>
+  Additional <br/>
+  2002 ~ 2012 Graduated, Law Dept of JEONBUK NATIONAL UNIVERSITY <br/>
+  2018 ~ 2022 
+  HTML, CSS, javaScript, Java, PHP, React, Vue, React-Naitve, MySql <br/> 
+  
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/seungchanystar
 
