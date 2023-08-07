@@ -55,7 +55,6 @@ author-about:
     </div>
     <div>
     August, 2022 <br/>
-    (Expected)
     </div>
   </div></br>
   <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
@@ -95,12 +94,12 @@ author-about:
 
   <hr style="border:dashed 0.3px black;"/>
   <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
-      <div style="width:78%; display:flex;">
-          Project - Online Marketplace <br/>
-          Full Stack Developer <br/>
+      <div style="width:78%; display:flex;"> Marketplace <br/>
+          Full Stack Devel
+          Project - Onlineoper <br/>
           Skills - Html, Css, Sass, JavaScript, React-Native, NodeJs, PHP, Mysql, Git
       </div>
-      <div>February 2021 - July 2021<br/></div>
+      <div>August 2020 - July 2021<br/></div>
   </div>
   <div style="font-weight:400;">IT Energy - Seoul, Korea </div>
    <hr style="border:dashed 0.3px black;"/> 
