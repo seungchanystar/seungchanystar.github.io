@@ -54,7 +54,7 @@ author-about:
     Korea National Open University, Bachelor of Computer Science
     </div>
     <div>
-    August, 2022 &nbsp; graduated &nbsp;&nbsp; Seoul, Korea
+    August, 2022 &nbsp; graduated &nbsp;&nbsp;<br/> Seoul, Korea
     </div>
   </div></br>
   <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
@@ -71,7 +71,7 @@ author-about:
   PROJECTS
    <hr style="border:solid 0.3px black;"/>
   <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
-    <div style="width:60%; display:flex;">
+    <div style="width:55%; display:flex;">
       <div>
       Pharmaceutical company CRM System<br/> 
       [APP] [Front-end Developer]<br/>
@@ -87,7 +87,7 @@ author-about:
   <hr style="border:dashed 0.3px black;"/>
 
   <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
-    <div style="width:60%; display:flex;">
+    <div style="width:55%; display:flex;">
       <div>
       Kiosk Manage<br/> 
       [Web] [Front-end Developer]<br/>
@@ -103,7 +103,7 @@ author-about:
   <hr style="border:dashed 0.3px black;"/>
 
   <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
-    <div style="width:50%; display:flex;">
+    <div style="width:45%; display:flex;">
       <div>
       Customer service center Manage<br/>
       [Web] [Full-stack Developer]<br/>
@@ -150,10 +150,10 @@ author-about:
   CERTIFICATE
   <hr style="border:solid 0.5px black;"/>
   <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
-    <div style="width:78%; display:flex" >Jeongbocheorigisa </div> <div>June, 2022</div>
+    <div style="width:60%; display:flex" >Jeongbocheorigisa </div> <div>June, 2022</div>
   </div></br>
   <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
-    <div style="width:78%; display:flex" >Jeongbocgigiunyonggineungsa </div> <div>December, 2020</div>
+    <div style="width:60%; display:flex" >Jeongbocgigiunyonggineungsa </div> <div>December, 2020</div>
   </div></br>
 
   Education
@@ -168,7 +168,7 @@ author-about:
     </div>
   </div></br>
   <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
-    <div style="width:50%; display:flex" >
+    <div style="width:40%; display:flex" >
     Mobile app development
     </div> 
     <div>
