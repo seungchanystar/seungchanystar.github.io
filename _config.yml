@@ -47,91 +47,176 @@ author-name: seungchanystar
 author-image: /assets/images/Pofile_Photo.png
 # 60 Words About the Author
 author-about: 
-  EDUCATION 
+  University
   <hr style="border:solid 0.3px black;"/>
   <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
-    <div style="width:78%; display:flex" >Korea National Open University - Seoul, Korea <br/> 
-    Bachelor of Computer Science 
+    <div style="width:50%; display:flex" >
+    Korea National Open University, Bachelor of Computer Science
     </div>
     <div>
-    August, 2022 <br/>
+    August, 2022 &nbsp; graduated &nbsp;&nbsp; Seoul, Korea
     </div>
   </div></br>
   <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
-    <div style="width:78%; display:flex" >Jeonbuk National University - Jeonju-si, Jeollabuk-do, Korea <br/> 
-    Bachelor of Law
+    <div style="width:40%; display:flex" >
+    Jeonbuk National University, Bachelor of Law
     </div>
-    <div> February, 2012</div>
+    <div>
+    February, 2012 &nbsp; graduated <br/>
+    <div>Jeollabuk-do Jeonju-si, Korea</div>
+    </div>
+
   </div></br>
 
-  EXPERIENCE
+  PROJECTS
    <hr style="border:solid 0.3px black;"/>
   <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
-    <div style="width:78%; display:flex;">
-      Project - Kiosk Manage Web <br/>
-      Front-End Developer<br/>
+    <div style="width:60%; display:flex;">
+      <div>
+      Pharmaceutical company CRM System<br/> 
+      [APP] [Front-end Developer]<br/>
+      Skills - React-Native, Sass, JavaScript, TypeScript, Firebase, NodeJs, Git, GitLab, Sourcetree, Android Studio, Xcode
+      </div>
+    </div>
+    <div>
+    July 2022 - November 2022<br/>
+    <div style="font-weight:400;">Hanmi Healthcare, Inc <br/> Seoul, Korea </div> 
+    </div>
+  </div>
+
+  <hr style="border:dashed 0.3px black;"/>
+
+  <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
+    <div style="width:60%; display:flex;">
+      <div>
+      Kiosk Manage<br/> 
+      [Web] [Front-end Developer]<br/>
       Skills - Html, Css, Sass, JavaScript, TypeScript, React, NodeJs, Git
+      </div>
     </div>
     <div>
     February 2022 - June 2022<br/>
+    <div style="font-weight:400;">Hunique, Inc - Seoul, Korea </div> 
     </div>
   </div>
-  <div style="font-weight:400;">Hunik, Inc - Seoul, Korea </div> 
 
   <hr style="border:dashed 0.3px black;"/>
 
   <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
-    <div style="width:78%; display:flex;">
-      Project - CS Center Manage Web <br/>
-      Full Stack Developer<br/>
+    <div style="width:50%; display:flex;">
+      <div>
+      Customer service center Manage<br/>
+      [Web] [Full-stack Developer]<br/>
       Skills - Html, Css, Sass, JavaScript, Vue, React, NodeJs, Java, Jsp, Spring, Mysql, Oracle, Linux, Svn
+      </div>
     </div>
     <div>
     September 2021 - January 2022<br/>
+    <div style="font-weight:400;">It pack, Inc - Seoul, Korea </div>
     </div>
-  </div>
-  <div style="font-weight:400;">Itfact, Inc - Seoul, Korea </div>
+  </div>  
 
   <hr style="border:dashed 0.3px black;"/>
   <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
-      <div style="width:78%; display:flex;"> Marketplace <br/>
-          Full Stack Devel
-          Project - Onlineoper <br/>
+      <div style="width:60%; display:flex;">
+          <div>
+          Clothing Shopping Online Mall <br/>
+          [WEB, APP][Full-stack Developer] <br/>
           Skills - Html, Css, Sass, JavaScript, React-Native, NodeJs, PHP, Mysql, Git
+          </div>
       </div>
-      <div>August 2020 - July 2021<br/></div>
+      <div>
+      August 2020 - July 2021<br/>
+      <div style="font-weight:400;">IT Energy - Seoul, Korea </div>
+      </div>
   </div>
-  <div style="font-weight:400;">IT Energy - Seoul, Korea </div>
+
    <hr style="border:dashed 0.3px black;"/> 
      <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
-      <div style="width:78%; display:flex;">
-          Project - Cloud Storage Platform(Maintenance) <br/>
-          Full Stack Developer <br/>
+      <div style="width:60%; display:flex;">
+          <div>
+          GongGonggigwan cloud storage <br/>
+          [WEB][Full-stack Developer] <br/>
           Skills - Html, Css, Sass, JavaScript, PHP, JAVA, Spring, MariaDB, Linux, Kubernetes
+          </div>
       </div>
-      <div>Octor 2019 - May 2020<br/></div>
-  </div>
-  <div style="font-weight:400;"> Eansoft, Inc - Seoul, Korea </div><br/>
+      <div>
+      Octor 2019 - May 2020<br/>
+      <div style="font-weight:400;"> IanSoft - Seoul, Korea </div>
+      </div>
+  </div></br>
 
-  CERTIFICATES
+
+  CERTIFICATE
   <hr style="border:solid 0.5px black;"/>
   <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
-    <div style="width:78%; display:flex" >Engineer Information Processing </div> <div>June, 2022</div>
+    <div style="width:78%; display:flex" >Jeongbocheorigisa </div> <div>June, 2022</div>
   </div></br>
   <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
-    <div style="width:78%; display:flex" >Craftsman Information Equipment Operation </div> <div>December, 2020</div>
+    <div style="width:78%; display:flex" >Jeongbocgigiunyonggineungsa </div> <div>December, 2020</div>
   </div></br>
 
-  ACTIVITIES
+  Education
   <hr style="border:solid 0.5px black;"/>
   <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
-    <div style="width:78%; display:flex" >Blockchain service development basic course </div> <div>August 2021<br/></div>
+    <div style="width:60%;" >
+    Blockchain service development basic course<br/>
+    <i>Korea Internet & Security Agency</i>
+    </div>
+    <div>
+    August 2021<br/>
+    </div>
   </div></br>
   <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
-    <div style="width:78%; display:flex" >Arduino, 3D modeling, 3D printer Instructor training course </div> <div>May 2020 - July 2020<br/></div>
+    <div style="width:50%; display:flex" >
+    Mobile app development
+    </div> 
+    <div>
+    September 2020 - February 2021<br/>
+    </div>
   </div></br>
-
-
+  <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
+    <div style="width:60%; display:flex" >
+    Arduino training course 
+    </div> 
+    <div>
+    May 2020 - July 2020<br/>
+    </div>
+  </div></br>
+  <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
+    <div style="width:60%; display:flex" >
+    "2020 call for code" Hackathon
+    </div> 
+    <div>
+    May 2020 - June 2020<br/>
+    </div>
+  </div></br>
+  <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
+    <div style="width:60%;" >
+    Fintech service development<br/>
+    <i>Korea Internet & Security Agency</i>
+    </div> 
+    <div>
+    Octor 2019<br/>
+    </div>
+  </div></br>
+  <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
+    <div style="width:60%;" >
+    Insuretech service development<br/>
+    <i>Korea Internet & Security Agency</i>
+    </div> 
+    <div>
+    September 2019<br/>
+    </div>
+  </div></br>
+  <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
+    <div style="width:60%; display:flex" >
+    Hackathon Using Raspberry Pi 
+    </div> 
+    <div>
+    November 2016 <br/>
+    </div>
+  </div></br>
 
   
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
