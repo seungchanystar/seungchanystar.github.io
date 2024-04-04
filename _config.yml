@@ -69,18 +69,39 @@ author-about:
   </div></br>
 
   PROJECTS
-   <hr style="border:solid 0.3px black;"/>
+
+  <hr style="border:solid 0.3px black;"/>
+
   <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
-    <div style="width:50%; display:flex;">
-      <div>
-      Pharmaceutical company CRM System<br/> 
-      [APP] [Front-end Developer]<br/>
-      Skills - React-Native, Sass, JavaScript, TypeScript, Firebase, NodeJs, Git, GitLab, Sourcetree, Android Studio, Xcode
-      </div>
+    <div style="width:60%; display:flex;">
+      [WEB] [Full-stack-Developer]<br/>
+      [Project] Integrated control system web <br/>
+      [Skills] java, spring, spring boot, Html, CSS, Javascript, Apache, Tomcat, Jenkins, Git, Gitlab, Linux, PostgreSQL
     </div>
     <div>
-    July 2022 - November 2022<br/>
-    <div style="font-weight:400;">Hanmi Healthcare, Inc <br/> Seoul, Korea </div> 
+        <br/>
+        January 2023 - March 2024<br/>
+        <div style="font-weight:400;">KT Cloud, Inc <br/> Seoul, Korea </div> 
+    </div>
+  </div>
+
+  <hr style="border:dashed 0.3px black;"/>
+
+  <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
+    <div style="width:60%; display:flex;">
+      [APP] [Front-end Developer]<br/>
+      <br/> 
+      [Project] Pharmaceutical company CRM System<br/> 
+      [Project] Push notification app for in-house employees<br/>
+      <br/> 
+      [Skills] React-Native, Sass, JavaScript, TypeScript, Firebase, NodeJs, Git, GitLab, Sourcetree, Android Studio, Xcode
+    </div>
+    <div>
+      <br/>
+      <br/>
+      July 2022 - November 2022<br/>
+      <br/>
+      <div style="font-weight:400;">Hanmi Healthcare, Inc <br/> Seoul, Korea </div> 
     </div>
   </div>
 
@@ -88,15 +109,14 @@ author-about:
 
   <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
     <div style="width:50%; display:flex;">
-      <div>
-      Kiosk Manage<br/> 
-      [Web]<br/>[Front-end Developer]<br/>
-      Skills - Html, Css, Sass, JavaScript, TypeScript, React, NodeJs, Git
-      </div>
+      [Web][Front-end Developer]<br/>
+      [Project] Kiosk Manage for manager<br/> 
+      [Skills] Html, Css, Sass, JavaScript, TypeScript, React, NodeJs, Git
     </div>
     <div>
-    February 2022 - June 2022<br/>
-    <div style="font-weight:400;">Hunique, Inc - Seoul, Korea </div> 
+      <br/>
+      February 2022 - June 2022<br/>
+      <div style="font-weight:400;">Hunique, Inc - Seoul, Korea </div> 
     </div>
   </div>
 
@@ -104,56 +124,57 @@ author-about:
 
   <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
     <div style="width:42%; display:flex;">
-      <div>
-      Customer service center Manage<br/>
-      [Web]<br/>[Full-stack Developer]<br/>
-      Skills - Html, Css, Sass, JavaScript, Vue, React, NodeJs, Java, Jsp, Spring, Mysql, Oracle, Linux, Svn
-      </div>
+      [Web][Full-stack Developer]<br/>
+      [Project] Customer service center Manage<br/>
+      [Skills] Html, Css, Sass, JavaScript, Vue, React, NodeJs, Java, Jsp, Spring, Mysql, Oracle, Linux, Svn
     </div>
     <div>
-    September 2021 - January 2022<br/>
-    <div style="font-weight:400;">It pack, Inc - Seoul, Korea </div>
+      <br/>
+      September 2021 - January 2022<br/>
+      <div style="font-weight:400;">It pack, Inc - Seoul, Korea </div>
     </div>
   </div>  
 
   <hr style="border:dashed 0.3px black;"/>
   <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
       <div style="width:50%; display:flex;">
-          <div>
-          Clothing Shopping Online Mall <br/>
-          [WEB, APP]<br/>[Full-stack Developer] <br/>
-          Skills - Html, Css, Sass, JavaScript, React-Native, NodeJs, PHP, Mysql, Git
-          </div>
+      [WEB, APP][Full-stack Developer]<br/>
+      [Project] Clothing Shopping Online Mall <br/>
+      [Skills] - Html, Css, Sass, JavaScript, React-Native, NodeJs, PHP, Mysql, Git
+      <br/>
       </div>
       <div>
-      August 2020 - July 2021<br/>
-      <div style="font-weight:400;">IT Energy - Seoul, Korea </div>
+        <br/>
+        August 2020 - July 2021<br/>
+        <div style="font-weight:400;">IT Energy - Seoul, Korea </div>
       </div>
   </div>
 
-   <hr style="border:dashed 0.3px black;"/> 
-     <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
-      <div style="width:60%; display:flex;">
-          <div>
-          Public institutions cloud storage service<br/>
-          [WEB][Full-stack Developer] <br/>
-          Skills - Html, Css, Sass, JavaScript, PHP, JAVA, Spring, MariaDB, Linux, Kubernetes
-          </div>
-          November 2019 - May 2020<br/>
-      </div>
-      <div style="width:60%; display:flex;">
-        <div>
-          Hanjin Express consultation system<br/>
-          [WEB][Full-stack Developer] <br/>
-          Skills - Html, Css, Sass, JavaScript, jsp, JAVA, Spring, oracle
-        </div>
-          June 2019 - November 2020<br/>
+  <hr style="border:dashed 0.3px black;"/> 
+  <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
+    <div style="width:60%; display:flex;">
+      [WEB][Full-stack Developer]<br/>
+      <br/>
+      [Project] Public institutions cloud storage service<br/>
+      [Project] Hanjin Express consultation system<br/>
+      [Project] Establishment of government subsidy project system (Korean Film Council)<br/>
+      [Project] Building a cryptocurrency exchange system (Privex)<br/>
+      <br/>
+      [Skills] Html, Css, Sass, JavaScript, PHP, JAVA, Spring, MariaDB, Oracle, Linux, Kubernetes
       </div>
       <div>
-      <div style="font-weight:400;"> IanSoft - Seoul, Korea </div>
+        <br/>
+        <br/>
+        November 2019 - May 2020<br/>
+        June 2019 - November 2020<br/>
+        November 2018 - May 2019<br/>
+        April 2018 - November 2018<br/>
+        <br/>
+        <div style="font-weight:400;"> IanSoft - Seoul, Korea </div>
       </div>
   </div>
-  </br>
+  <hr style="border:dashed 0.3px black;"/> 
+  <br/>
 
   CERTIFICATE
   <hr style="border:solid 0.5px black;"/>
