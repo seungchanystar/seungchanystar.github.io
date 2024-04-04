@@ -135,17 +135,24 @@ author-about:
      <div class="about-author-history-content" style="display:flex; justify-content:space-between;">
       <div style="width:60%; display:flex;">
           <div>
-          GongGonggigwan cloud storage <br/>
+          Public institutions cloud storage service<br/>
           [WEB][Full-stack Developer] <br/>
           Skills - Html, Css, Sass, JavaScript, PHP, JAVA, Spring, MariaDB, Linux, Kubernetes
           </div>
+          November 2019 - May 2020<br/>
+          <div>
+          Hanjin Express consultation system<br/>
+          [WEB][Full-stack Developer] <br/>
+          Skills - Html, Css, Sass, JavaScript, jsp, JAVA, Spring, oracle
+          </div>
+          June 2019 - November 2020<br/>
       </div>
       <div>
-      Octor 2019 - May 2020<br/>
+
       <div style="font-weight:400;"> IanSoft - Seoul, Korea </div>
       </div>
-  </div></br>
-
+  </div>
+  </br>
 
   CERTIFICATE
   <hr style="border:solid 0.5px black;"/>
