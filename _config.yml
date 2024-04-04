@@ -140,15 +140,16 @@ author-about:
           Skills - Html, Css, Sass, JavaScript, PHP, JAVA, Spring, MariaDB, Linux, Kubernetes
           </div>
           November 2019 - May 2020<br/>
-          <div>
+      </div>
+      <div style="width:60%; display:flex;">
+        <div>
           Hanjin Express consultation system<br/>
           [WEB][Full-stack Developer] <br/>
           Skills - Html, Css, Sass, JavaScript, jsp, JAVA, Spring, oracle
-          </div>
+        </div>
           June 2019 - November 2020<br/>
       </div>
       <div>
-
       <div style="font-weight:400;"> IanSoft - Seoul, Korea </div>
       </div>
   </div>
